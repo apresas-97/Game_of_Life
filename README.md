@@ -1,1 +1,1 @@
-# GameOfLife_CPP
+# Game_of_Life
